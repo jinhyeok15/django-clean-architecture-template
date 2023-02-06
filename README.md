@@ -1,1 +1,3 @@
-# 온술 프로젝트
+# Django-clean-architecture-template
+
+Input project information here
